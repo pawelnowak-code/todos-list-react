@@ -7,7 +7,7 @@ import Header from './Header';
 
 const tasks = [
   { id: 1, content: "Wykopać głęboki dół", done: true },
-  { id: 2, content: "Polecieć na księżyć", done: false }
+  { id: 2, content: "Polecieć na marsa", done: false }
 ];
 
 const hideDoneTasks = false;
